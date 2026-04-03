@@ -1,9 +1,13 @@
-# 🌌 Three-Body Skills for Claude Code
+# 🌌 Three-Body Skills for Workplace Survival
 
 > **Wallfacer hides your real plans. Sophon monitors your colleagues.**
 > **An AI survival guide from the Trisolaran civilization.**
 
-Inspired by Liu Cixin's *The Three-Body Problem* (三体), this project brings two iconic sci-fi concepts to Claude Code as installable skills.
+Everyone around me is building skills lately. It's an arms race out there. Sitting around isn't my style, so I built two:
+
+**Wallfacer** — Buries your real plans under piles of decoys. Someone wants to distill your work history into a skill to replace you? Wants to train an AI clone from your chat logs? Sorry — everything they see is fake. It's all part of the plan.
+
+**Sophon** — Disguised as an "AI Productivity Enhancer", get your colleagues to install it with high hopes, and then... lock their output ceiling. As long as they get laid off before you, you're safe. (Relax — it's a prank, not an actual lock 😄)
 
 ---
 
